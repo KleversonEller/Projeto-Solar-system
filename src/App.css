@@ -31,3 +31,7 @@ h2 {
   padding: 25px;
   text-shadow: 0 0 15px black;
 }
+
+p {
+  margin-bottom: 5px;
+}
