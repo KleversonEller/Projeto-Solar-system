@@ -24,7 +24,7 @@ A aplicação tem como objetivo o aprendizado do conceito de componentes no Reac
 ## Técnologias usadas
 
 Front-end:
-> Desenvolvido usando: React, CSS3, HTML5, JavaScript ES6.
+> Desenvolvido usando: React, CSS3, JavaScript ES6.
 
 ## Instalando Dependências
 
